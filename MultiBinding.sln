@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiBinding", "MultiBinding\MultiBinding.csproj", "{95697184-EA9B-49E6-B9EE-978972707884}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95697184-EA9B-49E6-B9EE-978972707884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95697184-EA9B-49E6-B9EE-978972707884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95697184-EA9B-49E6-B9EE-978972707884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95697184-EA9B-49E6-B9EE-978972707884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B118597-DDA2-43D1-BA7B-814858B84F05}
+	EndGlobalSection
+EndGlobal
